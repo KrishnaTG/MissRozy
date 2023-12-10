@@ -1,4 +1,4 @@
-# (c) @LazyDeveloperr
+# (c) @Krishna00P
 
 from configs import Config
 from handlers.database import db
